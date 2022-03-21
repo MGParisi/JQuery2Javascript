@@ -5,10 +5,13 @@ WARNING:  WILL BREAK CODE!  BACKUP!
 This Code is Covered Under the GNU GENERAL PUBLIC LICENSE version 3 by ProperProgramming,
 LLC (https://properprogramming.com). It requires all modifications to be contributed back to the original license.
 
-Online Version: https://properprogramming.com/tools/jquery-to-javascript-converter/
+We provide no warranty or guaranty on this code. Code produced from this library will almost certainly not work
+perfectly alone, and will need an experienced professional to solve some issues you will face. Do not use on production
+environments.
 
-We provide no warranty or Guaranty on this code. It will almost certainly not work perfectly alone, and will need an
-experienced professional to solve some issues you will face. Do not use on production environments.
+***Online Version***: https://properprogramming.com/tools/jquery-to-javascript-converter/
+
+### PLEASE CONTRIBUTE ALL CODE CHANGES TO OUR GITHUB REPOSITORY
 
 ***License***: GPLv2 or later
 
@@ -16,7 +19,9 @@ experienced professional to solve some issues you will face. Do not use on produ
 
 ***Online Version***: https://properprogramming.com/tools/jquery-to-javascript-converter/
 
-***License URI***: http://www.gnu.org/licenses/gpl-3.0.html
+***GitHUB Repository***:
+
+***Original License URI***: http://www.gnu.org/licenses/gpl-3.0.html
 
 ## Description
 
