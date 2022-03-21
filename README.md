@@ -18,7 +18,7 @@ contribute back. You may fork our library on GitHub.
 
 ***GitHub***: https://github.com/MGParisi/JQuery2Javascript
 
-***License***: GPLv2 or later
+***License***: GPLv3 or later
 
 ***Author***: https://properprogramming.com/
 
