@@ -16,7 +16,6 @@ environments.
 The cost of using this code is that any improvements must be shared with the community. Please respect this and
 contribute back. You may fork our library on GitHub.
 
-***GitHub***: https://github.com/MGParisi/JQuery2Javascript
 
 ***License***: GPLv3 or later
 
@@ -24,7 +23,7 @@ contribute back. You may fork our library on GitHub.
 
 ***Online Version***: https://properprogramming.com/tools/jquery-to-javascript-converter/
 
-***GitHUB Repository***:
+***GitHUB Repository***: https://github.com/MGParisi/JQuery2Javascript
 
 ***License URI***: https://github.com/MGParisi/JQuery2Javascript/blob/master/license.txt
 
